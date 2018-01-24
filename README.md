@@ -1,2 +1,1 @@
-# JobBuddy
-Company Challenge From Bloomberg
+# Bloomberg-JobBuddy 
